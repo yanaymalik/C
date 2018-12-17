@@ -1,0 +1,4 @@
+﻿  Source5.cpp
+d:\data\לימודים\cpp\project3\project3\source5.cpp(13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+d:\data\לימודים\cpp\project3\project3\source5.cpp(23): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project3.vcxproj -> D:\Data\לימודים\Cpp\Project3\Debug\Project3.exe
